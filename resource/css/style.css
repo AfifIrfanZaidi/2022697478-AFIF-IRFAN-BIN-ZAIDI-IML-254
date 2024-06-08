@@ -1,0 +1,18 @@
+body{background-color: lightgreen;}
+
+p.title{
+  font-family:arial;
+  font-weight:bold;
+  font-size:30px;
+  text-align:center;
+}
+
+p.subtitle{
+
+  font-family:arial;
+  font-weight:bold;
+  font-size:20px;
+  text-align:center;
+
+  
+
